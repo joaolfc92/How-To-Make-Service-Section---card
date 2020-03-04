@@ -1,4 +1,4 @@
-# How-To-Make-Service-Section---card
+# How-To-Make-Service-Section-card
 Card de descrição de serviço animado com rotação dos icones
 
 
